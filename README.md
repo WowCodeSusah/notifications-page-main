@@ -50,7 +50,7 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 - CSS custom properties
 - [Custom Font](https://fonts.googleapis.com/css?family=Plus Jakarta Sans)
 - CSS Box
-- [Styled Components](https://github.com/WowCodeSusah/notifications-page-main/edit/main/styles) - For styles
+- [Styled Components](https://github.com/WowCodeSusah/notifications-page-main/blob/main/styles.css) - For styles
 
 ### What I learned
 
