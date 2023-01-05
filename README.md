@@ -16,8 +16,6 @@ This is a solution to the [Notiification homepage Quiz 2 challenge]
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -40,20 +38,18 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/WowCodeSusah/notifications-page-main/
+- Live Site URL: https://github.com/WowCodeSusah/notifications-page-main/edit/main/README.md
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Custom Font](https://fonts.googleapis.com/css?family=Plus Jakarta Sans)
+- CSS Box
+- [Styled Components](https://github.com/WowCodeSusah/notifications-page-main/edit/main/styles) - For styles
 
 ### What I learned
 
