@@ -45,6 +45,7 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 
 ### Built with
 
+- VScode
 - HTML
 - CSS custom properties
 - [Custom Font](https://fonts.googleapis.com/css?family=Plus Jakarta Sans)
@@ -53,51 +54,34 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+i learned how to use span so that a paragragh can have multiple class in a sentence. I also learned how to box text and other objects to make things able to center.
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="basetext"><span class="N">Notifications</span><span class="three">3</span></div>
+      <div class="M">Mark all as read</div>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.three {
+    padding: 5px;
+    background-color: hsl(219, 64%, 42%);
+    color: white;
+    border-radius: 5px;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
+After doing this challenge i have now figured out that there is still a lot to learned about html and css also i must become faster in coding both languanges as i was unable to finish this challenge in time. For javascript i was unable to add any and i will further my knowledge in the future. 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [W3School](https://www.w3schools.com/) - This helped to gain extra knowledge about code that i didnt understand beforehand.
+- [Stack Overflow](https://stackoverflow.com/) - This is an amazing website that helps answers questions that i was unable to answer.
 
 ## Your Detail 
 
-- FullName - [Add your name here]
-- StudentID - [Add your StudentID here]
-- BINUS Email - [Add your BINUS email here]
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- FullName - [Michael Bengawan]
+- StudentID - [2602184290]
+- BINUS Email - [michael.bengawan@binus.ac.id]
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Thank you to sir Bagus for giving me the challenge and continuing to challenge me in different ways. I would also like to thank my friends that have helped me in this challenge most notably Abas and Bryan from L1CC.
