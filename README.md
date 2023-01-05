@@ -39,7 +39,7 @@ Add a screenshot of your solution. Crop/optimize/edit your image however you lik
 ### Links
 
 - Solution URL: https://github.com/WowCodeSusah/notifications-page-main/
-- Live Site URL: https://github.com/WowCodeSusah/notifications-page-main/edit/main/README.md
+- Live Site URL: https://wowcodesusah.github.io/notifications-page-main/
 
 ## My process
 
