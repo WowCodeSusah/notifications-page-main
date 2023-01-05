@@ -29,8 +29,9 @@ Users should be able to:
 
 
 ### Screenshot
-
+### Code
 ![](img/code.png)
+### Output
 ![](img/output.png)
 
 ### Links
